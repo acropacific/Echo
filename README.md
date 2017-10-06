@@ -1,6 +1,9 @@
 # React-Native Echo
 WebRTC and Kurento Media Server Integration Demo for React-Native
 
+## Description
+The client will stream audio to the application server via Webrtc. The application server will then process the stream through Kurento Media Server. The audio stream will then be fed back to the same client.
+
 ## Reference
 - [react-native-webrtc](https://github.com/oney/react-native-webrtc)
 - [Kurento](https://www.kurento.org/)
